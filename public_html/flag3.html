@@ -69,6 +69,8 @@
     });
 </script>
 
+</html>
+
 <script>
     async function GetToken() {
         const response = await fetch("/gettoken");
@@ -76,8 +78,6 @@
         return responseJson.token;
     }
 </script>
-
-</html>
 
 <script>
     document.addEventListener("DOMContentLoaded", async () => {
