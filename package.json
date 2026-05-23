@@ -9,7 +9,7 @@
   "author": "Finlay Christ",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.22.1",
+    "express": "^4.22.2",
     "forever": "^4.0.3"
   }
 }
